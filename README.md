@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aadhawan Maadheshwaran
+- 👀 I’m interested in Data Engineering, Data Science, Cloud Data Management, Data Warehousing
+- 🌱 I’m currently (long-term) learning Python, R, Scala, Visualization tools and ML/DL Algorithms
+- 💞️ I’m looking to collaborate on anything related to Data
+- 📫 How to reach me: adhavanm2000@gmail.com
